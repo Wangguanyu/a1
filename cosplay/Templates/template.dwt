@@ -1,0 +1,29 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>cosplay</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="../CSS/css.css" rel="stylesheet" type="text/css" /></head>
+<body>
+<div id="banner">
+  <h1>Hulkstown Cossieplay</h1>
+</div>
+<div id="nav_bar">
+  <h2><a href="../index.html">Home</a> <a href="../Aboutus.html">About us</a> <a href="../Announcement.html">Announcement</a> <a href="../Partyguidelines.html">Party guidelines</a> <a href="../Signup.html">Sign-Up</a> <a href="../Contact.html">Contact us</a></h2>
+</div>
+<div id="content"><!-- TemplateBeginEditable name="content" -->
+<p>body</p>
+<!-- TemplateEndEditable --></div>
+<div id="footer">
+  <p>Links
+<p>https://en.wikipedia.org/wiki/Cosplay (Wikipedia entry for cosplay)</p>
+<p>http://www.cosplay.com - world largest cosplay community</p>
+ <p>cosplaytutorial.com/index.php – resource for costumers</p>
+</p>
+</div>
+</body>
+</html>
